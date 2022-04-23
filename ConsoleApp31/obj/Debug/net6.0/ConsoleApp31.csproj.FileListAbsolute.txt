@@ -1,0 +1,14 @@
+C:\dev\EFCoreDemo\ConsoleApp31\bin\Debug\net6.0\ConsoleApp31.exe
+C:\dev\EFCoreDemo\ConsoleApp31\bin\Debug\net6.0\ConsoleApp31.deps.json
+C:\dev\EFCoreDemo\ConsoleApp31\bin\Debug\net6.0\ConsoleApp31.runtimeconfig.json
+C:\dev\EFCoreDemo\ConsoleApp31\bin\Debug\net6.0\ConsoleApp31.dll
+C:\dev\EFCoreDemo\ConsoleApp31\bin\Debug\net6.0\ref\ConsoleApp31.dll
+C:\dev\EFCoreDemo\ConsoleApp31\bin\Debug\net6.0\ConsoleApp31.pdb
+C:\dev\EFCoreDemo\ConsoleApp31\obj\Debug\net6.0\ConsoleApp31.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EFCoreDemo\ConsoleApp31\obj\Debug\net6.0\ConsoleApp31.AssemblyInfoInputs.cache
+C:\dev\EFCoreDemo\ConsoleApp31\obj\Debug\net6.0\ConsoleApp31.AssemblyInfo.cs
+C:\dev\EFCoreDemo\ConsoleApp31\obj\Debug\net6.0\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\dev\EFCoreDemo\ConsoleApp31\obj\Debug\net6.0\ConsoleApp31.dll
+C:\dev\EFCoreDemo\ConsoleApp31\obj\Debug\net6.0\ref\ConsoleApp31.dll
+C:\dev\EFCoreDemo\ConsoleApp31\obj\Debug\net6.0\ConsoleApp31.pdb
+C:\dev\EFCoreDemo\ConsoleApp31\obj\Debug\net6.0\ConsoleApp31.genruntimeconfig.cache

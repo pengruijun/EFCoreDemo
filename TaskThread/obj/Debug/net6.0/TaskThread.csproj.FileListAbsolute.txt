@@ -1,0 +1,15 @@
+C:\dev\EFCoreDemo\TaskThread\bin\Debug\net6.0\TaskThread.exe
+C:\dev\EFCoreDemo\TaskThread\bin\Debug\net6.0\TaskThread.deps.json
+C:\dev\EFCoreDemo\TaskThread\bin\Debug\net6.0\TaskThread.runtimeconfig.json
+C:\dev\EFCoreDemo\TaskThread\bin\Debug\net6.0\TaskThread.dll
+C:\dev\EFCoreDemo\TaskThread\bin\Debug\net6.0\ref\TaskThread.dll
+C:\dev\EFCoreDemo\TaskThread\bin\Debug\net6.0\TaskThread.pdb
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\TaskThread.csproj.AssemblyReference.cache
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\TaskThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\TaskThread.AssemblyInfoInputs.cache
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\TaskThread.AssemblyInfo.cs
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\TaskThread.csproj.CoreCompileInputs.cache
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\TaskThread.dll
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\ref\TaskThread.dll
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\TaskThread.pdb
+C:\dev\EFCoreDemo\TaskThread\obj\Debug\net6.0\TaskThread.genruntimeconfig.cache
